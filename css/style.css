@@ -69,6 +69,7 @@ color: #0A143A;
   border-radius: 5px;
   border: none;
   padding: 0 22px;
+  outline:none;
 }
 .search__button {
   background-color: #256EEB;
@@ -78,6 +79,7 @@ color: #0A143A;
   padding-right: 17px;
   display: flex;
   align-items: center;
+  cursor: pointer;
 
 }
 .search__button__text {
